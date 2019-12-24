@@ -1,0 +1,9 @@
+Temparature:
+
+https://elementztechblog.wordpress.com/2017/12/07/arduino-and-temperature-sensorlm35-interfacing-how/
+
+
+PH-Sensor:
+
+https://scidle.com/how-to-use-a-ph-sensor-with-arduino/
+
